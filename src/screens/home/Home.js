@@ -24,6 +24,14 @@ const Home = () => {
 
            <Typography> Redirigiendo...
            </Typography>
+
+           <BlankLine/>
+
+           <Typography> ¿Todavía no tenés la aplicación? Descargala acá para Android:
+           </Typography>
+
+           <Typography> https://drive.google.com/drive/folders/1sRYQEzYPe54zNvUkHYNKIk3gs7pJEDfc
+           </Typography>
        </>
     );
 };
